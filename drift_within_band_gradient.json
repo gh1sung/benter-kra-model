@@ -1,0 +1,80 @@
+[
+  {
+    "band": "[1,3)",
+    "n": 852,
+    "band_baseline_ratio": 0.898,
+    "mid50_cell_ratio": 0.897,
+    "gradient_top_minus_bot": -0.127,
+    "clustered_CI95": [
+      -0.215,
+      -0.033
+    ],
+    "frac_negative": 1.0,
+    "gradient_significant": true
+  },
+  {
+    "band": "[3,6)",
+    "n": 1476,
+    "band_baseline_ratio": 1.005,
+    "mid50_cell_ratio": 0.994,
+    "gradient_top_minus_bot": 0.011,
+    "clustered_CI95": [
+      -0.066,
+      0.084
+    ],
+    "frac_negative": 0.37,
+    "gradient_significant": false
+  },
+  {
+    "band": "[6,12)",
+    "n": 1890,
+    "band_baseline_ratio": 1.063,
+    "mid50_cell_ratio": 1.082,
+    "gradient_top_minus_bot": 0.008,
+    "clustered_CI95": [
+      -0.058,
+      0.073
+    ],
+    "frac_negative": 0.4,
+    "gradient_significant": false
+  },
+  {
+    "band": "[12,25)",
+    "n": 2063,
+    "band_baseline_ratio": 1.083,
+    "mid50_cell_ratio": 1.078,
+    "gradient_top_minus_bot": 0.021,
+    "clustered_CI95": [
+      -0.024,
+      0.073
+    ],
+    "frac_negative": 0.16,
+    "gradient_significant": false
+  },
+  {
+    "band": "[25,60)",
+    "n": 2660,
+    "band_baseline_ratio": 0.991,
+    "mid50_cell_ratio": 0.912,
+    "gradient_top_minus_bot": 0.021,
+    "clustered_CI95": [
+      -0.019,
+      0.051
+    ],
+    "frac_negative": 0.17,
+    "gradient_significant": false
+  },
+  {
+    "band": "[60,inf)",
+    "n": 1383,
+    "band_baseline_ratio": 0.773,
+    "mid50_cell_ratio": 0.799,
+    "gradient_top_minus_bot": 0.006,
+    "clustered_CI95": [
+      -0.024,
+      0.035
+    ],
+    "frac_negative": 0.31,
+    "gradient_significant": false
+  }
+]

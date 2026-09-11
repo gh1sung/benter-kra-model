@@ -1,0 +1,26 @@
+[
+  {
+    "horse_num": 1,
+    "tag": "overlooked",
+    "tier": "S",
+    "odds_final": 37.4,
+    "expert_score": 9.0,
+    "n_comps": 10,
+    "comps_placed_rate": 0.0,
+    "pool_placed_rate": 0.1086,
+    "customer_facing_text": "Horse 1.0: OVERLOOKED [S confidence, strong evidence base]. Looked at the 10 most similar past horses: 0% placed, vs 11% for the overlooked group overall. [Caveat: this pattern was strong in 2022-23 data but weaker and not statistically distinguishable from noise in 2024+ data -- show with lower confidence than Unlucky]",
+    "suppressed": false
+  },
+  {
+    "horse_num": 4,
+    "tag": "unlucky",
+    "tier": "A",
+    "odds_final": 3.2,
+    "expert_score": 210.0,
+    "n_comps": 10,
+    "comps_placed_rate": 0.7,
+    "pool_placed_rate": 0.3576,
+    "customer_facing_text": "Horse 4.0: UNLUCKY [A confidence, solid evidence base]. Looked at the 10 most similar past horses: 70% placed, vs 36% for the unlucky group overall.",
+    "suppressed": false
+  }
+]

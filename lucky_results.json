@@ -1,0 +1,748 @@
+{
+  "primary": {
+    "D1": {
+      "definition": "D1",
+      "label": "",
+      "n_refs_build": 125,
+      "k": 11,
+      "n_test_eligible": 1155,
+      "base_rate_test": 0.0641,
+      "base_rate_pool_all": 0.0638,
+      "shape_check": {
+        "cluster_sizes": [
+          61,
+          64
+        ],
+        "centroid_separation_sd": 2.08
+      },
+      "M1": {
+        "top10": {
+          "n": 116,
+          "actual_place_rate": 0.0517,
+          "base_rate": 0.0641,
+          "lift": 0.807,
+          "odds_implied_rate": 0.078,
+          "ratio": 0.663,
+          "ratio_CI95": [
+            0.219,
+            1.191
+          ],
+          "mean_final_odds": 64.4
+        },
+        "top25": {
+          "n": 289,
+          "actual_place_rate": 0.0554,
+          "base_rate": 0.0641,
+          "lift": 0.864,
+          "odds_implied_rate": 0.0789,
+          "ratio": 0.702,
+          "ratio_CI95": [
+            0.398,
+            1.072
+          ],
+          "mean_final_odds": 62.2
+        },
+        "rest": {
+          "n": 866,
+          "actual_place_rate": 0.067,
+          "base_rate": 0.0641,
+          "lift": 1.045,
+          "odds_implied_rate": 0.0844,
+          "ratio": 0.793,
+          "ratio_CI95": [
+            0.615,
+            1.0
+          ],
+          "mean_final_odds": 61.2
+        }
+      },
+      "M2": {
+        "top10": {
+          "n": 116,
+          "actual_place_rate": 0.0431,
+          "base_rate": 0.0641,
+          "lift": 0.673,
+          "odds_implied_rate": 0.0749,
+          "ratio": 0.575,
+          "ratio_CI95": [
+            0.116,
+            1.089
+          ],
+          "mean_final_odds": 60.3
+        },
+        "top25": {
+          "n": 289,
+          "actual_place_rate": 0.0484,
+          "base_rate": 0.0641,
+          "lift": 0.756,
+          "odds_implied_rate": 0.0784,
+          "ratio": 0.618,
+          "ratio_CI95": [
+            0.319,
+            0.947
+          ],
+          "mean_final_odds": 59.9
+        },
+        "rest": {
+          "n": 866,
+          "actual_place_rate": 0.0693,
+          "base_rate": 0.0641,
+          "lift": 1.081,
+          "odds_implied_rate": 0.0846,
+          "ratio": 0.819,
+          "ratio_CI95": [
+            0.629,
+            1.019
+          ],
+          "mean_final_odds": 62.0
+        }
+      },
+      "M0": {
+        "top10": {
+          "n": 116,
+          "actual_place_rate": 0.0603,
+          "base_rate": 0.0641,
+          "lift": 0.942,
+          "odds_implied_rate": 0.0851,
+          "ratio": 0.709,
+          "ratio_CI95": [
+            0.224,
+            1.227
+          ],
+          "mean_final_odds": 59.8
+        },
+        "top25": {
+          "n": 289,
+          "actual_place_rate": 0.0657,
+          "base_rate": 0.0641,
+          "lift": 1.026,
+          "odds_implied_rate": 0.0822,
+          "ratio": 0.8,
+          "ratio_CI95": [
+            0.471,
+            1.15
+          ],
+          "mean_final_odds": 61.9
+        },
+        "rest": {
+          "n": 866,
+          "actual_place_rate": 0.0635,
+          "base_rate": 0.0641,
+          "lift": 0.991,
+          "odds_implied_rate": 0.0833,
+          "ratio": 0.762,
+          "ratio_CI95": [
+            0.581,
+            0.96
+          ],
+          "mean_final_odds": 61.3
+        }
+      }
+    },
+    "D2": {
+      "definition": "D2",
+      "label": "",
+      "n_refs_build": 298,
+      "k": 17,
+      "n_test_eligible": 2024,
+      "base_rate_test": 0.0865,
+      "base_rate_pool_all": 0.0867,
+      "shape_check": {
+        "cluster_sizes": [
+          166,
+          132
+        ],
+        "centroid_separation_sd": 2.34
+      },
+      "M1": {
+        "top10": {
+          "n": 202,
+          "actual_place_rate": 0.0644,
+          "base_rate": 0.0865,
+          "lift": 0.744,
+          "odds_implied_rate": 0.0928,
+          "ratio": 0.694,
+          "ratio_CI95": [
+            0.364,
+            1.082
+          ],
+          "mean_final_odds": 52.6
+        },
+        "top25": {
+          "n": 506,
+          "actual_place_rate": 0.085,
+          "base_rate": 0.0865,
+          "lift": 0.983,
+          "odds_implied_rate": 0.0956,
+          "ratio": 0.889,
+          "ratio_CI95": [
+            0.652,
+            1.154
+          ],
+          "mean_final_odds": 51.1
+        },
+        "rest": {
+          "n": 1518,
+          "actual_place_rate": 0.087,
+          "base_rate": 0.0865,
+          "lift": 1.006,
+          "odds_implied_rate": 0.0972,
+          "ratio": 0.894,
+          "ratio_CI95": [
+            0.751,
+            1.038
+          ],
+          "mean_final_odds": 55.6
+        }
+      },
+      "M2": {
+        "top10": {
+          "n": 202,
+          "actual_place_rate": 0.0693,
+          "base_rate": 0.0865,
+          "lift": 0.802,
+          "odds_implied_rate": 0.0863,
+          "ratio": 0.803,
+          "ratio_CI95": [
+            0.422,
+            1.223
+          ],
+          "mean_final_odds": 54.3
+        },
+        "top25": {
+          "n": 506,
+          "actual_place_rate": 0.0632,
+          "base_rate": 0.0865,
+          "lift": 0.731,
+          "odds_implied_rate": 0.0895,
+          "ratio": 0.707,
+          "ratio_CI95": [
+            0.481,
+            0.952
+          ],
+          "mean_final_odds": 53.9
+        },
+        "rest": {
+          "n": 1518,
+          "actual_place_rate": 0.0942,
+          "base_rate": 0.0865,
+          "lift": 1.09,
+          "odds_implied_rate": 0.0993,
+          "ratio": 0.949,
+          "ratio_CI95": [
+            0.799,
+            1.095
+          ],
+          "mean_final_odds": 54.7
+        }
+      },
+      "M0": {
+        "top10": {
+          "n": 202,
+          "actual_place_rate": 0.0545,
+          "base_rate": 0.0865,
+          "lift": 0.63,
+          "odds_implied_rate": 0.0961,
+          "ratio": 0.567,
+          "ratio_CI95": [
+            0.258,
+            0.898
+          ],
+          "mean_final_odds": 54.4
+        },
+        "top25": {
+          "n": 506,
+          "actual_place_rate": 0.081,
+          "base_rate": 0.0865,
+          "lift": 0.937,
+          "odds_implied_rate": 0.0976,
+          "ratio": 0.83,
+          "ratio_CI95": [
+            0.596,
+            1.092
+          ],
+          "mean_final_odds": 53.9
+        },
+        "rest": {
+          "n": 1518,
+          "actual_place_rate": 0.0883,
+          "base_rate": 0.0865,
+          "lift": 1.021,
+          "odds_implied_rate": 0.0966,
+          "ratio": 0.914,
+          "ratio_CI95": [
+            0.771,
+            1.053
+          ],
+          "mean_final_odds": 54.7
+        }
+      }
+    },
+    "D3": {
+      "definition": "D3",
+      "label": "odds>=20",
+      "n_refs_build": 258,
+      "k": 16,
+      "n_test_eligible": 1900,
+      "base_rate_test": 0.0732,
+      "base_rate_pool_all": 0.0775,
+      "shape_check": {
+        "cluster_sizes": [
+          79,
+          179
+        ],
+        "centroid_separation_sd": 1.77
+      },
+      "M1": {
+        "top10": {
+          "n": 190,
+          "actual_place_rate": 0.0579,
+          "base_rate": 0.0732,
+          "lift": 0.791,
+          "odds_implied_rate": 0.0897,
+          "ratio": 0.645,
+          "ratio_CI95": [
+            0.299,
+            1.016
+          ],
+          "mean_final_odds": 53.9
+        },
+        "top25": {
+          "n": 475,
+          "actual_place_rate": 0.0779,
+          "base_rate": 0.0732,
+          "lift": 1.065,
+          "odds_implied_rate": 0.089,
+          "ratio": 0.875,
+          "ratio_CI95": [
+            0.615,
+            1.167
+          ],
+          "mean_final_odds": 54.1
+        },
+        "rest": {
+          "n": 1425,
+          "actual_place_rate": 0.0716,
+          "base_rate": 0.0732,
+          "lift": 0.978,
+          "odds_implied_rate": 0.089,
+          "ratio": 0.805,
+          "ratio_CI95": [
+            0.665,
+            0.96
+          ],
+          "mean_final_odds": 58.1
+        }
+      },
+      "M2": {
+        "top10": {
+          "n": 190,
+          "actual_place_rate": 0.0684,
+          "base_rate": 0.0732,
+          "lift": 0.935,
+          "odds_implied_rate": 0.0854,
+          "ratio": 0.801,
+          "ratio_CI95": [
+            0.427,
+            1.26
+          ],
+          "mean_final_odds": 54.2
+        },
+        "top25": {
+          "n": 475,
+          "actual_place_rate": 0.0653,
+          "base_rate": 0.0732,
+          "lift": 0.892,
+          "odds_implied_rate": 0.0866,
+          "ratio": 0.754,
+          "ratio_CI95": [
+            0.507,
+            1.022
+          ],
+          "mean_final_odds": 55.2
+        },
+        "rest": {
+          "n": 1425,
+          "actual_place_rate": 0.0758,
+          "base_rate": 0.0732,
+          "lift": 1.036,
+          "odds_implied_rate": 0.0898,
+          "ratio": 0.844,
+          "ratio_CI95": [
+            0.696,
+            1.009
+          ],
+          "mean_final_odds": 57.7
+        }
+      },
+      "M0": {
+        "top10": {
+          "n": 190,
+          "actual_place_rate": 0.0789,
+          "base_rate": 0.0732,
+          "lift": 1.079,
+          "odds_implied_rate": 0.0918,
+          "ratio": 0.86,
+          "ratio_CI95": [
+            0.457,
+            1.299
+          ],
+          "mean_final_odds": 54.6
+        },
+        "top25": {
+          "n": 475,
+          "actual_place_rate": 0.0779,
+          "base_rate": 0.0732,
+          "lift": 1.065,
+          "odds_implied_rate": 0.0902,
+          "ratio": 0.863,
+          "ratio_CI95": [
+            0.594,
+            1.131
+          ],
+          "mean_final_odds": 56.5
+        },
+        "rest": {
+          "n": 1425,
+          "actual_place_rate": 0.0716,
+          "base_rate": 0.0732,
+          "lift": 0.978,
+          "odds_implied_rate": 0.0886,
+          "ratio": 0.808,
+          "ratio_CI95": [
+            0.66,
+            0.968
+          ],
+          "mean_final_odds": 57.2
+        }
+      }
+    }
+  },
+  "filter_robustness_3_5": {
+    "D3_odds25": {
+      "definition": "D3",
+      "label": "odds_25>=20",
+      "n_refs_build": 179,
+      "k": 13,
+      "n_test_eligible": 1461,
+      "base_rate_test": 0.078,
+      "base_rate_pool_all": 0.0743,
+      "shape_check": {
+        "cluster_sizes": [
+          92,
+          87
+        ],
+        "centroid_separation_sd": 1.98
+      },
+      "M1": {
+        "top10": {
+          "n": 146,
+          "actual_place_rate": 0.0685,
+          "base_rate": 0.078,
+          "lift": 0.878,
+          "odds_implied_rate": 0.0842,
+          "ratio": 0.813,
+          "ratio_CI95": [
+            0.394,
+            1.322
+          ],
+          "mean_final_odds": 58.7
+        },
+        "top25": {
+          "n": 365,
+          "actual_place_rate": 0.0822,
+          "base_rate": 0.078,
+          "lift": 1.053,
+          "odds_implied_rate": 0.0852,
+          "ratio": 0.965,
+          "ratio_CI95": [
+            0.641,
+            1.309
+          ],
+          "mean_final_odds": 58.9
+        },
+        "rest": {
+          "n": 1096,
+          "actual_place_rate": 0.0766,
+          "base_rate": 0.078,
+          "lift": 0.982,
+          "odds_implied_rate": 0.0881,
+          "ratio": 0.87,
+          "ratio_CI95": [
+            0.698,
+            1.062
+          ],
+          "mean_final_odds": 60.6
+        }
+      },
+      "M2": {
+        "top10": {
+          "n": 146,
+          "actual_place_rate": 0.0616,
+          "base_rate": 0.078,
+          "lift": 0.79,
+          "odds_implied_rate": 0.0789,
+          "ratio": 0.781,
+          "ratio_CI95": [
+            0.338,
+            1.315
+          ],
+          "mean_final_odds": 59.0
+        },
+        "top25": {
+          "n": 365,
+          "actual_place_rate": 0.0767,
+          "base_rate": 0.078,
+          "lift": 0.983,
+          "odds_implied_rate": 0.0837,
+          "ratio": 0.916,
+          "ratio_CI95": [
+            0.613,
+            1.242
+          ],
+          "mean_final_odds": 57.1
+        },
+        "rest": {
+          "n": 1096,
+          "actual_place_rate": 0.0785,
+          "base_rate": 0.078,
+          "lift": 1.006,
+          "odds_implied_rate": 0.0886,
+          "ratio": 0.886,
+          "ratio_CI95": [
+            0.714,
+            1.062
+          ],
+          "mean_final_odds": 61.2
+        }
+      },
+      "M0": {
+        "top10": {
+          "n": 146,
+          "actual_place_rate": 0.0822,
+          "base_rate": 0.078,
+          "lift": 1.053,
+          "odds_implied_rate": 0.0855,
+          "ratio": 0.961,
+          "ratio_CI95": [
+            0.486,
+            1.481
+          ],
+          "mean_final_odds": 59.3
+        },
+        "top25": {
+          "n": 365,
+          "actual_place_rate": 0.0822,
+          "base_rate": 0.078,
+          "lift": 1.053,
+          "odds_implied_rate": 0.0866,
+          "ratio": 0.949,
+          "ratio_CI95": [
+            0.626,
+            1.267
+          ],
+          "mean_final_odds": 60.4
+        },
+        "rest": {
+          "n": 1096,
+          "actual_place_rate": 0.0766,
+          "base_rate": 0.078,
+          "lift": 0.982,
+          "odds_implied_rate": 0.0876,
+          "ratio": 0.874,
+          "ratio_CI95": [
+            0.705,
+            1.051
+          ],
+          "mean_final_odds": 60.1
+        }
+      }
+    }
+  },
+  "stability_3_6": {
+    "D1": {
+      "definition": "D1",
+      "n_refs": 74,
+      "DROPPED": "n_refs<100",
+      "base_rate": 0.0636
+    },
+    "D2": {
+      "definition": "D2",
+      "n_refs": 175,
+      "k": 13,
+      "n_eval": 3429,
+      "base_rate": 0.0869,
+      "M1": {
+        "top10": {
+          "n": 343,
+          "actual_place_rate": 0.1283,
+          "base_rate": 0.0869,
+          "lift": 1.476,
+          "odds_implied_rate": 0.1019,
+          "ratio": 1.259,
+          "ratio_CI95": [
+            0.924,
+            1.598
+          ],
+          "mean_final_odds": 47.4
+        },
+        "top25": {
+          "n": 857,
+          "actual_place_rate": 0.1167,
+          "base_rate": 0.0869,
+          "lift": 1.343,
+          "odds_implied_rate": 0.0998,
+          "ratio": 1.169,
+          "ratio_CI95": [
+            0.962,
+            1.385
+          ],
+          "mean_final_odds": 49.3
+        },
+        "rest": {
+          "n": 2572,
+          "actual_place_rate": 0.077,
+          "base_rate": 0.0869,
+          "lift": 0.886,
+          "odds_implied_rate": 0.0959,
+          "ratio": 0.803,
+          "ratio_CI95": [
+            0.698,
+            0.909
+          ],
+          "mean_final_odds": 56.5
+        }
+      },
+      "M2": {
+        "top10": {
+          "n": 343,
+          "actual_place_rate": 0.1079,
+          "base_rate": 0.0869,
+          "lift": 1.241,
+          "odds_implied_rate": 0.096,
+          "ratio": 1.124,
+          "ratio_CI95": [
+            0.79,
+            1.474
+          ],
+          "mean_final_odds": 50.5
+        },
+        "top25": {
+          "n": 857,
+          "actual_place_rate": 0.0968,
+          "base_rate": 0.0869,
+          "lift": 1.114,
+          "odds_implied_rate": 0.0949,
+          "ratio": 1.021,
+          "ratio_CI95": [
+            0.814,
+            1.233
+          ],
+          "mean_final_odds": 52.1
+        },
+        "rest": {
+          "n": 2572,
+          "actual_place_rate": 0.0836,
+          "base_rate": 0.0869,
+          "lift": 0.962,
+          "odds_implied_rate": 0.0975,
+          "ratio": 0.857,
+          "ratio_CI95": [
+            0.749,
+            0.967
+          ],
+          "mean_final_odds": 55.6
+        }
+      }
+    },
+    "D3": {
+      "definition": "D3",
+      "n_refs": 139,
+      "k": 12,
+      "n_eval": 3225,
+      "base_rate": 0.08,
+      "M1": {
+        "top10": {
+          "n": 322,
+          "actual_place_rate": 0.1056,
+          "base_rate": 0.08,
+          "lift": 1.32,
+          "odds_implied_rate": 0.0931,
+          "ratio": 1.134,
+          "ratio_CI95": [
+            0.784,
+            1.507
+          ],
+          "mean_final_odds": 51.4
+        },
+        "top25": {
+          "n": 806,
+          "actual_place_rate": 0.1067,
+          "base_rate": 0.08,
+          "lift": 1.334,
+          "odds_implied_rate": 0.0928,
+          "ratio": 1.149,
+          "ratio_CI95": [
+            0.93,
+            1.382
+          ],
+          "mean_final_odds": 52.6
+        },
+        "rest": {
+          "n": 2419,
+          "actual_place_rate": 0.0711,
+          "base_rate": 0.08,
+          "lift": 0.889,
+          "odds_implied_rate": 0.088,
+          "ratio": 0.808,
+          "ratio_CI95": [
+            0.701,
+            0.933
+          ],
+          "mean_final_odds": 58.8
+        }
+      },
+      "M2": {
+        "top10": {
+          "n": 322,
+          "actual_place_rate": 0.1025,
+          "base_rate": 0.08,
+          "lift": 1.281,
+          "odds_implied_rate": 0.0899,
+          "ratio": 1.14,
+          "ratio_CI95": [
+            0.786,
+            1.536
+          ],
+          "mean_final_odds": 52.7
+        },
+        "top25": {
+          "n": 806,
+          "actual_place_rate": 0.0868,
+          "base_rate": 0.08,
+          "lift": 1.086,
+          "odds_implied_rate": 0.089,
+          "ratio": 0.976,
+          "ratio_CI95": [
+            0.757,
+            1.208
+          ],
+          "mean_final_odds": 54.6
+        },
+        "rest": {
+          "n": 2419,
+          "actual_place_rate": 0.0777,
+          "base_rate": 0.08,
+          "lift": 0.971,
+          "odds_implied_rate": 0.0892,
+          "ratio": 0.871,
+          "ratio_CI95": [
+            0.755,
+            0.99
+          ],
+          "mean_final_odds": 58.1
+        }
+      }
+    }
+  }
+}
