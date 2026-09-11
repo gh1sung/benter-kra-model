@@ -35,6 +35,8 @@ coefficients, and calibration tables (the actual outputs) **are** included in th
   included as they contain data-provider-specific operational detail.
 - One internal meeting-transcript file — not included (unrelated personal/business content
   had no place in a public repo regardless of the technical work discussed alongside it).
+- One piece of direct email correspondence with the data provider - not included; personal/
+  business correspondence isn't appropriate for a public repo regardless of content.
 
 ## What *is* included
 Every aggregated result, calibration table, ablation grid, model coefficient file, and the
